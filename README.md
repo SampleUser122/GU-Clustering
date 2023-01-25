@@ -1,5 +1,5 @@
 #### This repository contains the code, data, and preprocessing steps for reproducing the results of the paper:  
- ####  GU-Clustering: AN UNSUPERVISED DISTANCE-BASED ALGORITHM FOR GLOBAL ANOMALY DETECTION
+ ####  GU-Clustering: An unsupervised non-parametric algorithm for Global Clustering and Anomaly Detection
 
 
 
